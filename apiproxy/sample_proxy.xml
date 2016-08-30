@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="sample_proxy">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1471376285107</CreatedAt>
+    <CreatedBy>kondapalli.venkatalakshmi@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>xml-3</DisplayName>
+    <LastModifiedAt>1471376285107</LastModifiedAt>
+    <LastModifiedBy>kondapalli.venkatalakshmi@gmail.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints/>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints/>
+    <validate>false</validate>
+</APIProxy>

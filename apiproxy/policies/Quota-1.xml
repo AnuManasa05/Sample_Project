@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quota type="calendar" async="false" continueOnError="false" enabled="false" name="Quota-1">
+    <DisplayName>Quota-1</DisplayName>
+    <FaultRules/>
+    <Properties/>
+    <Allow count="10"/>
+    <Interval ref="request.header.quota_count">1</Interval>
+    <DataStoreFailureModeOpen>false</DataStoreFailureModeOpen>
+    <Distributed>false</Distributed>
+    <PreciseAtSecondsLevel>false</PreciseAtSecondsLevel>
+    <StartTime>2014-7-16 12:00:00</StartTime>
+    <Synchronous>false</Synchronous>
+    <TimeUnit ref="request.header.quota_timeout">month</TimeUnit>
+</Quota>
